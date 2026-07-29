@@ -1,5 +1,10 @@
-# 💫 About Me:
-I'm a Developer Enthusiast and Data Science <br>I’m currently learning Python and Java<br>Fun fact i'm a big fans real madrid club
+<h1 align="center">Hello 👋, Taufik Alimansyah</h1>
+<h3 align="center">Web Development Enthusiast and Data Science</h3>
+⚡Fun fact i'm a big fans real madrid club
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 
 
 ## 🌐 Socials:
